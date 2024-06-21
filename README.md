@@ -33,9 +33,6 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Documentation
-http://localhost:3000/v1/docs/
-
 ## Test
 
 ```bash
@@ -48,3 +45,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Documentation
+http://localhost:3000/v1/docs/
